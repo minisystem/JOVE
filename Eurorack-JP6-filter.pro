@@ -1,4 +1,4 @@
-update=2015-04-26 5:47:08 PM
+update=2015-04-28 10:04:13 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=opto
 LibName29=atmel
 LibName30=contrib
 LibName31=valves
+LibName32=E:/Documents/KiCad/Polysynth/MonApollo/analog-board-cache
