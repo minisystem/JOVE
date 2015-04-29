@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-04-26 BZR 5624)-product   date = 2015-04-28 10:57:21 AM
+Cmp-Mod V01 Created by Cvpcb (2015-04-26 BZR 5624)-product   date = 2015-04-29 2:47:23 PM
 
 BeginCmp
 TimeStamp = /553EA635;
@@ -956,7 +956,7 @@ BeginCmp
 TimeStamp = /553E8B82;
 Reference = VR6;
 ValeurCmp = 50K;
-IdModule  = synth:RD901F-ALPHA-POT;
+IdModule  = synth:RV16A-41-JRL;
 EndCmp
 
 BeginCmp
