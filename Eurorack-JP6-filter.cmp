@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-04-26 BZR 5624)-product   date = 2015-04-29 6:08:26 PM
+Cmp-Mod V01 Created by Cvpcb (2015-04-26 BZR 5624)-product   date = 2015-04-30 1:32:04 PM
 
 BeginCmp
 TimeStamp = /553EA635;
@@ -445,7 +445,7 @@ BeginCmp
 TimeStamp = /553DEFD9;
 Reference = R19;
 ValeurCmp = 10K NTC;
-IdModule  = MyModules:2MM-POL-CAP;
+IdModule  = MyModules:SM0805-HAND;
 EndCmp
 
 BeginCmp
