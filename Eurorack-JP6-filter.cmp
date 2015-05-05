@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-04-26 BZR 5624)-product   date = 2015-04-30 1:32:04 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-05-04 12:32:42 PM
 
 BeginCmp
 TimeStamp = /553EA635;
@@ -277,14 +277,14 @@ BeginCmp
 TimeStamp = /553E08B9;
 Reference = Q1;
 ValeurCmp = BCM857BS;
-IdModule  = synth:SOT363-JRL;
+IdModule  = MyModules:SOT363-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /553D56EE;
 Reference = Q2;
 ValeurCmp = BCM857BS;
-IdModule  = synth:SOT363-JRL;
+IdModule  = MyModules:SOT363-JRL;
 EndCmp
 
 BeginCmp
@@ -872,28 +872,28 @@ BeginCmp
 TimeStamp = /553D55BE;
 Reference = U5;
 ValeurCmp = LM13700;
-IdModule  = synth:SO16-JRL;
+IdModule  = MyModules:SO16-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /553F6417;
 Reference = U6;
 ValeurCmp = LM13700;
-IdModule  = synth:SO16-JRL;
+IdModule  = MyModules:SO16-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /5540332E;
 Reference = U7;
 ValeurCmp = LM13700;
-IdModule  = synth:SO16-JRL;
+IdModule  = MyModules:SO16-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /55426D57;
 Reference = U8;
 ValeurCmp = DG409;
-IdModule  = synth:SO16-JRL;
+IdModule  = MyModules:SO16-JRL;
 EndCmp
 
 BeginCmp
@@ -921,28 +921,28 @@ BeginCmp
 TimeStamp = /553D937B;
 Reference = VR1;
 ValeurCmp = 50K;
-IdModule  = synth:RV16A-41-JRL;
+IdModule  = MyModules:RV16A-41-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /553E2A48;
 Reference = VR2;
 ValeurCmp = 50K;
-IdModule  = synth:RV16A-41-JRL;
+IdModule  = MyModules:RV16A-41-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /553DA311;
 Reference = VR3;
 ValeurCmp = 50K;
-IdModule  = synth:RV16A-41-JRL;
+IdModule  = MyModules:RV16A-41-JRL;
 EndCmp
 
 BeginCmp
 TimeStamp = /553D9840;
 Reference = VR4;
 ValeurCmp = 50K;
-IdModule  = synth:RV16A-41-JRL;
+IdModule  = MyModules:RV16A-41-JRL;
 EndCmp
 
 BeginCmp
@@ -956,7 +956,7 @@ BeginCmp
 TimeStamp = /553E8B82;
 Reference = VR6;
 ValeurCmp = 50K;
-IdModule  = synth:RV16A-41-JRL;
+IdModule  = MyModules:RV16A-41-JRL;
 EndCmp
 
 BeginCmp
