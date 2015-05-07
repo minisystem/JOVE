@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 8.999999 -2.400001 80.000001 126.300001)
     (thickness 1.6)
-    (drawings 31)
+    (drawings 33)
     (tracks 977)
     (zones 0)
     (modules 140)
@@ -14,7 +14,7 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
+    (0 F.Cu signal hide)
     (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
@@ -68,7 +68,7 @@
     (pad_drill 1.1)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFEF77F)
+    (visible_elements 7FFEB77F)
     (pcbplotparams
       (layerselection 0x00400_00000000)
       (usegerberextensions false)
@@ -4547,7 +4547,7 @@
   )
 
   (module synth:system79-logo-12mm (layer B.Cu) (tedit 5548E30F) (tstamp 5548FDFF)
-    (at 68.75 71.75)
+    (at 66.25 71.75)
     (fp_text reference system79-logo-12mm (at 0 11) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -4560,6 +4560,12 @@
     )
   )
 
+  (gr_text system79.com (at 44.5 102.5) (layer B.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
+  (gr_text "Multimode Filter\nv1.0 05 2015\n" (at 66.5 51.5) (layer B.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
   (gr_line (start 70.104 24.25) (end 74.5 24.25) (angle 90) (layer B.SilkS) (width 0.8128))
   (gr_text -12V (at 67.5 24.25) (layer B.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.1524)) (justify mirror))
