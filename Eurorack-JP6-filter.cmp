@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-11 BZR 5365)-product   date = 2015-05-04 12:32:42 PM
+Cmp-Mod V01 Created by Cvpcb (2015-04-26 BZR 5624)-product   date = 2015-05-07 10:36:37 AM
 
 BeginCmp
 TimeStamp = /553EA635;
@@ -179,49 +179,49 @@ BeginCmp
 TimeStamp = /55419372;
 Reference = D1;
 ValeurCmp = LED;
-IdModule  = MyModules:3MM-LED;
+IdModule  = MyModules:3MM-LED-C1A2;
 EndCmp
 
 BeginCmp
 TimeStamp = /55419EFD;
 Reference = D2;
 ValeurCmp = LED;
-IdModule  = MyModules:3MM-LED;
+IdModule  = MyModules:3MM-LED-C1A2;
 EndCmp
 
 BeginCmp
 TimeStamp = /55419FFB;
 Reference = D3;
 ValeurCmp = LED;
-IdModule  = MyModules:3MM-LED;
+IdModule  = MyModules:3MM-LED-C1A2;
 EndCmp
 
 BeginCmp
 TimeStamp = /5541A0FB;
 Reference = D4;
 ValeurCmp = LED;
-IdModule  = MyModules:3MM-LED;
+IdModule  = MyModules:3MM-LED-C1A2;
 EndCmp
 
 BeginCmp
 TimeStamp = /5540949D;
 Reference = D5;
 ValeurCmp = 1N914;
-IdModule  = MyModules:SOD323-JRL;
+IdModule  = MyModules:SOD323-C1A2;
 EndCmp
 
 BeginCmp
 TimeStamp = /55409A89;
 Reference = D6;
 ValeurCmp = 1N914;
-IdModule  = MyModules:SOD323-JRL;
+IdModule  = MyModules:SOD323-C1A2;
 EndCmp
 
 BeginCmp
 TimeStamp = /554805B1;
 Reference = D7;
 ValeurCmp = 1N914;
-IdModule  = MyModules:SOD323-JRL;
+IdModule  = MyModules:SOD323-C1A2;
 EndCmp
 
 BeginCmp
