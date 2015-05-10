@@ -1,0 +1,4 @@
+#.gitignore Eurorack JP6 multimode filter
+
+shapes3D/
+*.wrl
