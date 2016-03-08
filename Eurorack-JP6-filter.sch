@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:Eurorack-JP6-filter-rescue
 LIBS:MySynthParts
 LIBS:power
 LIBS:device
@@ -11,7 +12,6 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
-LIBS:special
 LIBS:microcontrollers
 LIBS:dsp
 LIBS:microchip
@@ -3430,7 +3430,7 @@ Wire Wire Line
 Connection ~ 6300 2950
 NoConn ~ 15850 15450
 $Comp
-L Q_NJFET_SDG Q6
+L Q_NJFET_SDG-RESCUE-Eurorack-JP6-filter Q6
 U 1 1 554F0331
 P 19450 11300
 F 0 "Q6" H 19750 11350 50  0000 R CNN
@@ -3441,7 +3441,7 @@ F 3 "" H 19450 11300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Q_NJFET_SDG Q5
+L Q_NJFET_SDG-RESCUE-Eurorack-JP6-filter Q5
 U 1 1 554F0714
 P 16850 11300
 F 0 "Q5" H 17150 11350 50  0000 R CNN
@@ -3452,7 +3452,7 @@ F 3 "" H 16850 11300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Q_NJFET_SDG Q4
+L Q_NJFET_SDG-RESCUE-Eurorack-JP6-filter Q4
 U 1 1 554F0CB3
 P 11150 11300
 F 0 "Q4" H 11450 11350 50  0000 R CNN
@@ -3463,7 +3463,7 @@ F 3 "" H 11150 11300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Q_NJFET_SDG Q3
+L Q_NJFET_SDG-RESCUE-Eurorack-JP6-filter Q3
 U 1 1 554F15DD
 P 8550 11300
 F 0 "Q3" H 8850 11350 50  0000 R CNN

@@ -1,4 +1,6 @@
-#.gitignore Eurorack JP6 multimode filter
+#.gitignore Eurorack JP6 filter
+
 
 shapes3D/
 *.wrl
+_autosave*
