@@ -1,7 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:Eurorack-JP6-filter-rescue
 LIBS:MySynthParts
-LIBS:power
 LIBS:device
 LIBS:transistors
 LIBS:conn
@@ -3132,7 +3131,7 @@ Wire Wire Line
 Wire Wire Line
 	8600 6750 11600 6750
 Wire Wire Line
-	11600 6150 11600 6750
+	11600 6750 11600 6150
 Wire Wire Line
 	10900 6750 10900 6950
 Connection ~ 10900 6750
@@ -3536,4 +3535,35 @@ F 3 "" H 19550 12050 60  0000 C CNN
 	1    19550 12050
 	-1   0    0    1   
 $EndComp
+$Comp
+L D D?
+U 1 1 57242018
+P 18175 1625
+F 0 "D?" V 18225 1750 50  0000 C CNN
+F 1 "S1BB" V 18150 1800 50  0000 C CNN
+F 2 "MyModules:SMB-1C2A" H 18175 1625 60  0001 C CNN
+F 3 "" H 18175 1625 60  0000 C CNN
+	1    18175 1625
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	18175 1475 18175 1400
+Connection ~ 18175 1400
+Wire Wire Line
+	18175 1775 18175 1950
+Connection ~ 18175 1850
+$Comp
+L D D?
+U 1 1 57244C3A
+P 18175 2100
+F 0 "D?" V 18225 2225 50  0000 C CNN
+F 1 "S1BB" V 18150 2275 50  0000 C CNN
+F 2 "MyModules:SMB-1C2A" H 18175 2100 60  0001 C CNN
+F 3 "" H 18175 2100 60  0000 C CNN
+	1    18175 2100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	18175 2250 18175 2300
+Connection ~ 18175 2300
 $EndSCHEMATC

@@ -8,8 +8,8 @@ Demos:
 https://soundcloud.com/minisystem/sets/system-79-state-variable-filter-demo
 https://soundcloud.com/mimoid/sets/system-79-state-variable-filter-demo
 
-EDA files generated in Kicad BZR 5624. Schematic library here: https://github.com/minisystem/MyKicadLibraries/blob/master/MySynthParts.lib
-
+EDA files generated in KiCad 4.0.2. Schematic library here: https://github.com/minisystem/MyKicadLibraries/blob/master/MySynthParts.lib
+There *might* be some KiCad GitHub libraries required as well. :/
 Front panel design by Bartek Kawula.
 Hardware design by Minisystem: jeff@minisystem.ca 
 
