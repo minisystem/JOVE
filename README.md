@@ -2,7 +2,7 @@ SYSTEM 79 SVF
 ============
 
 Roland Jupiter 6 style state variable filter in Eurorack format. IR3109s replaced with LM13700 OTAs.
-Selectable 24 dB low pass, bonus 2 pole 12 dB low pass (very loud!), band pass and high pass modes.
+Selectable 24 dB low pass, bonus 2 pole 12 dB low pass (+3dB!), band pass (-2dB) and high pass modes.
 
 Demos:
 https://soundcloud.com/minisystem/sets/system-79-state-variable-filter-demo
@@ -17,6 +17,10 @@ Acknowledgements
 ================
 The idea to hybridize the audio input and control voltage stages from the MKS80 and SH101, respectively, comes directly from
 the AMSynths AM8060: http://www.amsynths.co.uk/products/filters/am8060se/
+
+UPDATE
+======
+Currently working on v1.3 which will add voltage controlled resonance and attenuverter on one CV input. Stay tuned.
 
 LICENSE
 =======
