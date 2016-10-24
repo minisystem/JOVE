@@ -24,5 +24,5 @@ Currently working on v1.3 which will add voltage controlled resonance and attenu
 
 LICENSE
 =======
-cc-by-ncsa
+cc-by-nc-sa
 https://creativecommons.org/licenses/by-nc-sa/4.0/
