@@ -3536,7 +3536,7 @@ $EndComp
 Wire Wire Line
 	3825 5525 4250 5525
 Wire Wire Line
-	4250 5525 4250 6300
+	4250 5200 4250 6300
 Connection ~ 4250 6300
 Wire Wire Line
 	3425 5525 3050 5525
@@ -3684,12 +3684,12 @@ Connection ~ 3400 7600
 Wire Wire Line
 	3050 7000 3725 7000
 Wire Wire Line
-	3050 5525 3050 7000
+	3050 5200 3050 7000
 Wire Wire Line
 	4000 1125 4000 1700
 Connection ~ 4000 1700
-Text Notes 3300 7225 0    60   ~ 0
-Is clamping diode needed?
+Text Notes 3350 7275 0    60   ~ 0
+Optional clamping diode
 Connection ~ 4000 1125
 Wire Wire Line
 	3650 1275 3650 1700
@@ -3860,4 +3860,38 @@ Text Notes 16200 15200 0    60   ~ 0
 OUT
 Text Notes 18425 16375 0    60   ~ 0
 October 2016
+$Comp
+L C_US C?
+U 1 1 580EC816
+P 6675 3425
+F 0 "C?" V 6800 3225 50  0000 L CNN
+F 1 "22pF" V 6800 3500 50  0000 L CNN
+F 2 "MyModules:SM0603-C-JRL" H 6675 3425 60  0001 C CNN
+F 3 "" H 6675 3425 60  0000 C CNN
+	1    6675 3425
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	6475 3425 6175 3425
+Connection ~ 6175 3425
+Wire Wire Line
+	6875 3425 7225 3425
+Connection ~ 7225 3425
+$Comp
+L C_US C?
+U 1 1 580EE17F
+P 3625 5200
+F 0 "C?" V 3750 5000 50  0000 L CNN
+F 1 "22pF" V 3750 5275 50  0000 L CNN
+F 2 "MyModules:SM0603-C-JRL" H 3625 5200 60  0001 C CNN
+F 3 "" H 3625 5200 60  0000 C CNN
+	1    3625 5200
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	3425 5200 3050 5200
+Connection ~ 3050 5525
+Wire Wire Line
+	3825 5200 4250 5200
+Connection ~ 4250 5525
 $EndSCHEMATC
