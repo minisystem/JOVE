@@ -16,7 +16,7 @@ Hardware design by Minisystem: jeff@minisystem.ca
 Acknowledgements
 ================
 The idea to hybridize the audio input and control voltage stages from the MKS80 and SH101, respectively, comes directly from
-the AMSynths AM8060: http://www.amsynths.co.uk/products/filters/am8060se/
+the AMSynths AM8060: http://www.amsynthstore.co.uk/
 
 UPDATE
 ======
@@ -24,5 +24,5 @@ Currently working on v1.3 which will add voltage controlled resonance and attenu
 
 LICENSE
 =======
-cc-by-sa-3.0
-https://creativecommons.org/licenses/by-sa/3.0/
+cc-by-ncsa
+https://creativecommons.org/licenses/by-nc-sa/4.0/
