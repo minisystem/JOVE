@@ -1,5 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:Eurorack-JP6-filter-rescue
+LIBS:Jove-rescue
 LIBS:MySynthParts
 LIBS:device
 LIBS:transistors
@@ -29,7 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:Eurorack-JP6-filter-cache
+LIBS:Jove-cache
 EELAYER 25 0
 EELAYER END
 $Descr C 22000 17000
@@ -3292,7 +3292,7 @@ Wire Wire Line
 Connection ~ 9425 2850
 NoConn ~ 15850 15450
 $Comp
-L Q_NJFET_SDG-RESCUE-Eurorack-JP6-filter Q6
+L Q_NJFET_SDG-RESCUE-Jove Q6
 U 1 1 554F0331
 P 19425 11775
 F 0 "Q6" H 19725 11825 50  0000 R CNN
@@ -3303,7 +3303,7 @@ F 3 "" H 19425 11775 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Q_NJFET_SDG-RESCUE-Eurorack-JP6-filter Q5
+L Q_NJFET_SDG-RESCUE-Jove Q5
 U 1 1 554F0714
 P 16825 11775
 F 0 "Q5" H 17125 11825 50  0000 R CNN
@@ -3314,7 +3314,7 @@ F 3 "" H 16825 11775 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Q_NJFET_SDG-RESCUE-Eurorack-JP6-filter Q4
+L Q_NJFET_SDG-RESCUE-Jove Q4
 U 1 1 554F0CB3
 P 11125 11775
 F 0 "Q4" H 11425 11825 50  0000 R CNN
@@ -3325,7 +3325,7 @@ F 3 "" H 11125 11775 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Q_NJFET_SDG-RESCUE-Eurorack-JP6-filter Q3
+L Q_NJFET_SDG-RESCUE-Jove Q3
 U 1 1 554F15DD
 P 8525 11775
 F 0 "Q3" H 8825 11825 50  0000 R CNN

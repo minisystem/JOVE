@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=Eurorack-JP6-filter-rescue
+LibName1=Jove-rescue
 LibName2=E:/Documents/KiCad/MyLibs/MySynthParts
 LibName3=device
 LibName4=transistors
