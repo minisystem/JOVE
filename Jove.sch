@@ -1973,6 +1973,7 @@ F 0 "C23" H 17800 2000 50  0000 L CNN
 F 1 "10μF" H 17800 1800 50  0000 L CNN
 F 2 "Capacitors_SMD:c_elec_5x5.3" H 17750 1900 60  0001 C CNN
 F 3 "" H 17750 1900 60  0000 C CNN
+F 4 "UWJ1E100MCL1GB" H 17750 1900 60  0001 C CNN "Part Number"
 	1    17750 1900
 	1    0    0    -1  
 $EndComp
@@ -1984,6 +1985,7 @@ F 0 "C24" H 17800 2500 50  0000 L CNN
 F 1 "10μF" H 17800 2300 50  0000 L CNN
 F 2 "Capacitors_SMD:c_elec_5x5.3" H 17750 2400 60  0001 C CNN
 F 3 "" H 17750 2400 60  0000 C CNN
+F 4 "UWJ1E100MCL1GB" H 17750 2400 60  0001 C CNN "Part Number"
 	1    17750 2400
 	1    0    0    -1  
 $EndComp
@@ -3872,8 +3874,10 @@ Connection ~ 3050 5525
 Wire Wire Line
 	3825 5200 4250 5200
 Connection ~ 4250 5525
-Text Notes 17300 15525 0    80   ~ 0
+Text Notes 17325 15825 0    80   ~ 0
 OTA Multimode Filter inspired by Roland Jupiter 6 filter. \nIR3109s replaced with LM13700s.
 Wire Wire Line
 	4000 1700 4125 1700
+Text Notes 17300 15475 0    150  ~ 0
+JOVE
 $EndSCHEMATC

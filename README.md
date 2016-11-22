@@ -1,4 +1,4 @@
-SYSTEM 80 Multimode Filter
+SYSTEM 80 Jove Multimode Filter
 ============
 
 Roland Jupiter 6 inspired multimode filter in 14HP Eurorack format. IR3109s replaced with LM13700 OTAs.
