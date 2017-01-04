@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 11.924999 11.924999 77.075001 112.075001)
     (thickness 1.6)
-    (drawings 832)
+    (drawings 833)
     (tracks 1183)
     (zones 0)
     (modules 156)
@@ -37,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 0.6096)
+    (last_trace_width 0.254)
     (user_trace_width 0.2032)
     (user_trace_width 0.254)
     (user_trace_width 0.3048)
@@ -5282,6 +5282,9 @@
       (xy 0.555814 2.531069)) (layer B.SilkS) (width 0.01))
   )
 
+  (gr_text JOVE (at 66.04 78.105) (layer B.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
   (gr_line (start 72.50984 81.776773) (end 72.432207 81.810639) (layer B.SilkS) (width 0.15))
   (gr_line (start 72.484971 83.523009) (end 72.519828 83.523662) (layer B.SilkS) (width 0.15))
   (gr_line (start 72.294298 83.492559) (end 72.484971 83.523009) (layer B.SilkS) (width 0.15))
@@ -6107,7 +6110,7 @@
   (gr_text system80.net (at 44.5 102.5) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "Multimode Filter\nv1.3 10 2016\n" (at 21.7 83.2) (layer B.SilkS)
+  (gr_text "Multimode Filter\nv1.4 01 2017\n" (at 21.7 83.2) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text -12V (at 69.7 42.9 270) (layer B.SilkS)
