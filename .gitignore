@@ -1,6 +1,11 @@
-#.gitignore Eurorack JP6 filter
-
+#.gitignore
+#ignore this bullshit
 
 shapes3D/
 *.wrl
 _autosave*
+*.bak
+Gerbers/*.gbp
+Gerbers/*.dxf
+Gerbers/*.svg
+Gerbers/Jove-bottom.pos
