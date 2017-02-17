@@ -211,9 +211,9 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:zoom="0.93993455"
-     inkscape:cx="477.98061"
-     inkscape:cy="350.77013"
+     inkscape:zoom="1.3292682"
+     inkscape:cx="415.93943"
+     inkscape:cy="244.73118"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -253,7 +253,7 @@
        orientation="0,1"
        id="guide24360" />
     <sodipodi:guide
-       position="57077.46,82188.355"
+       position="58243.791,30615.088"
        orientation="1,0"
        id="guide5324" />
     <sodipodi:guide
@@ -1671,6 +1671,16 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+    <g
+       id="g4556"
+       transform="matrix(138.88901,0,0,-138.88902,80540.259,-20585.874)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         d="M 0,0 C 0.547,0.149 1.053,0.442 1.502,0.871 1.946,1.293 2.31,1.874 2.584,2.599 2.853,3.316 2.99,4.259 2.99,5.401 l 0,9.51 c 0,1.789 -0.382,3.174 -1.134,4.114 -0.766,0.979 -1.922,1.475 -3.437,1.475 -1.493,0 -2.648,-0.495 -3.439,-1.478 -0.73,-0.959 -1.101,-2.343 -1.101,-4.111 l 0,-9.51 c 0,-1.146 0.137,-2.089 0.406,-2.803 0.272,-0.722 0.637,-1.304 1.082,-1.727 0.449,-0.429 0.955,-0.722 1.501,-0.871 0.527,-0.145 1.049,-0.219 1.551,-0.219 0.521,0 1.053,0.074 1.581,0.219 m 0.94,18.27 c 0.559,-0.7 0.839,-1.82 0.839,-3.359 l 0,-9.51 c 0,-1.559 -0.28,-2.69 -0.839,-3.389 -0.581,-0.701 -1.421,-1.05 -2.521,-1.05 -1.12,0 -1.949,0.349 -2.49,1.05 -0.579,0.74 -0.869,1.87 -0.869,3.389 l 0,9.51 c 0,1.499 0.29,2.619 0.869,3.359 0.52,0.7 1.35,1.049 2.49,1.049 1.121,0 1.96,-0.349 2.521,-1.049 M -8.46,1.23 c 0.671,0.88 1.012,2.253 1.012,4.081 0,1.829 -0.341,3.203 -1.01,4.079 -0.218,0.296 -0.468,0.549 -0.746,0.757 0.278,0.214 0.527,0.462 0.744,0.741 0.671,0.881 1.012,2.255 1.012,4.083 0,1.828 -0.341,3.201 -1.009,4.077 -0.706,0.964 -1.813,1.452 -3.292,1.452 -1.498,0 -2.616,-0.488 -3.323,-1.453 -0.668,-0.92 -1.007,-2.291 -1.007,-4.076 0,-1.786 0.339,-3.158 1.008,-4.079 0.214,-0.291 0.464,-0.54 0.745,-0.745 -0.283,-0.2 -0.533,-0.454 -0.746,-0.758 -0.668,-0.92 -1.007,-2.292 -1.007,-4.078 0,-1.785 0.339,-3.157 1.008,-4.077 0.707,-0.964 1.825,-1.453 3.322,-1.453 1.478,0 2.585,0.489 3.289,1.449 m -3.289,-0.268 c -1.08,0 -1.87,0.33 -2.369,0.99 -0.501,0.68 -0.751,1.799 -0.751,3.359 0,1.56 0.25,2.69 0.751,3.39 0.499,0.66 1.289,0.989 2.369,0.989 1.08,0 1.86,-0.329 2.34,-0.989 0.499,-0.7 0.749,-1.83 0.749,-3.39 0,-1.56 -0.25,-2.679 -0.749,-3.359 -0.48,-0.66 -1.26,-0.99 -2.34,-0.99 m -3.12,14.009 c 0,1.559 0.25,2.679 0.751,3.359 0.499,0.66 1.289,0.989 2.369,0.989 1.08,0 1.86,-0.329 2.34,-0.989 0.499,-0.68 0.749,-1.8 0.749,-3.359 0,-1.56 -0.25,-2.681 -0.749,-3.361 -0.48,-0.659 -1.26,-0.989 -2.34,-0.989 -1.08,0 -1.87,0.33 -2.369,0.989 -0.501,0.68 -0.751,1.801 -0.751,3.361 m 27.85,-4.83 c 0,-10.784 -8.742,-19.526 -19.526,-19.526 -10.784,0 -19.526,8.742 -19.526,19.526 0,10.784 8.742,19.526 19.526,19.526 10.784,0 19.526,-8.742 19.526,-19.526"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4558"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2493,13 +2503,13 @@
     <text
        sodipodi:linespacing="100%"
        id="text5748"
-       y="5411.3096"
+       y="6522.4229"
        x="5964.8364"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3333.3371582px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-104.16675568px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3333.3371582px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-166.66682044px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
          id="tspan5752"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3333.3371582px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-104.16675568px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
-         y="5411.3096"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3333.3371582px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-166.66682044px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;"
+         y="6522.4229"
          x="5964.8364"
          sodipodi:role="line">JOVE Eurorack Filter</tspan></text>
     <text
@@ -2555,15 +2565,15 @@
          id="tspan5841"
          y="14572.505"
          x="43909.898"
-         sodipodi:role="line">ductance Amplifers (OTA) implmented with the now obsolete IR3109.  JOVE</tspan><tspan
+         sodipodi:role="line">ductance Amplifers (OTA) implemented with the now obsolete IR3109.  JOVE</tspan><tspan
          id="tspan5843"
          y="15871.117"
          x="43909.898"
          sodipodi:role="line">replaces the IR3109 OTAs with the very similar LM13700 OTA to acheive the</tspan><tspan
-         id="tspan5845"
          y="17169.73"
          x="43909.898"
-         sodipodi:role="line">original character of the Jupiter-6 filter.    </tspan></text>
+         sodipodi:role="line"
+         id="tspan9223">original character of the Jupiter-6 filter.    </tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text5956"
@@ -2609,7 +2619,7 @@
          sodipodi:role="line"
          x="48068.43"
          y="99817.008"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">-12V (RED STRIPE)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">-12V</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1180.55664063px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-55.55560684px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:25.59057426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2648,7 +2658,7 @@
          sodipodi:role="line"
          x="6083.8818"
          y="100553.84"
-         id="tspan7471">prolonged connection to reverse polarity with damage the protection diodes</tspan><tspan
+         id="tspan7471">prolonged connection to reverse polarity will damage the protection diodes</tspan><tspan
          sodipodi:role="line"
          x="6083.8818"
          y="101852.45"
@@ -2667,37 +2677,60 @@
          id="tspan7491" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1180.55664063px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-55.55560684px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:25.59057426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="5996.5205"
-       y="105782.76"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1180.55664063px;line-height:150%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-55.55560684px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:25.59057426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="58159.547"
+       y="91449.383"
        id="text7485"
-       sodipodi:linespacing="110%"><tspan
+       sodipodi:linespacing="150%"><tspan
          id="tspan7487"
          sodipodi:role="line"
-         x="5996.5205"
-         y="105782.76">Power consumption: 15mA +12V, 10 mA -12V</tspan></text>
-    <text
-       sodipodi:linespacing="110%"
-       id="text7493"
-       y="105782.76"
-       x="30237.115"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1180.55664063px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-55.55560684px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:25.59057426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="105782.76"
-         x="30237.115"
+         x="58159.547"
+         y="91449.383">Power consumption: 15mA +12V, 10 mA -12V</tspan><tspan
          sodipodi:role="line"
-         id="tspan7495">Frequency CV response: -10V to +10V</tspan></text>
+         x="58159.547"
+         y="93220.219"
+         id="tspan9229"
+         style="line-height:150%">Frequency CV response: 0 to +10V</tspan><tspan
+         sodipodi:role="line"
+         x="58159.547"
+         y="94991.055"
+         id="tspan9231">Frequency CV range: -10V to +10V</tspan><tspan
+         sodipodi:role="line"
+         x="58159.547"
+         y="96761.891"
+         id="tspan9233">Resonance CV response: 0 to +10V</tspan><tspan
+         sodipodi:role="line"
+         x="58159.547"
+         y="98532.719"
+         id="tspan9235">Width: 14HP</tspan><tspan
+         sodipodi:role="line"
+         x="58159.547"
+         y="100303.55"
+         id="tspan9237">Depth: 25 mm (excl. power connecotr)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1180.55664063px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-55.55560684px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:25.59057426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="50423.68"
-       y="105782.76"
-       id="text7497"
-       sodipodi:linespacing="110%"><tspan
-         id="tspan7499"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2361.11401367px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-104.16675568px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="58078.277"
+       y="89566.211"
+       id="text9239"
+       sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="50423.68"
-         y="105782.76">Resonance CV responce: 0V to +10V</tspan></text>
+         x="58078.277"
+         y="89566.211"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2361.11401367px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-104.16675568px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px"
+         id="tspan9241">Specifications</tspan></text>
+    <text
+       sodipodi:linespacing="110%"
+       id="text9243"
+       y="101279.8"
+       x="42426.223"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1180.55664063px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-55.55560684px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:25.59057426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'"
+         y="101279.8"
+         x="42426.223"
+         sodipodi:role="line"
+         id="tspan9245">RED STRIPE</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
