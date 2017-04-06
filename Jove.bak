@@ -3835,11 +3835,11 @@ INPUT 1
 Text Notes 17650 16250 0    80   ~ 0
 OTA Multimode Filter
 Text Notes 20875 16375 0    60   ~ 0
-1.3
+1.4
 Text Notes 16200 15200 0    60   ~ 0
 OUT
 Text Notes 18425 16375 0    60   ~ 0
-October 2016
+January 2017
 $Comp
 L C_US C29
 U 1 1 580EC816
@@ -3878,6 +3878,6 @@ Text Notes 17325 15825 0    80   ~ 0
 OTA Multimode Filter inspired by Roland Jupiter 6 filter. \nIR3109s replaced with LM13700s.
 Wire Wire Line
 	4000 1700 4125 1700
-Text Notes 17300 15475 0    150  ~ 0
-JOVE
+Text Notes 17300 15475 0    150  ~ 30
+'JOVE'
 $EndSCHEMATC
