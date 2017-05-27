@@ -1,4 +1,4 @@
-SYSTEM 80 JOVE Multimode Filter
+SYSTEM80 JOVE Multimode Filter
 ============
 
 
@@ -12,8 +12,16 @@ https://soundcloud.com/system_80/sets/jove-mimoid-demo
 
 EDA files generated in KiCad 4.0.2. Schematic library here: https://github.com/minisystem/MyKicadLibraries/blob/master/MySynthParts.lib
 KiCad GitHub libraries required as well. :/
-Front panel design by Bartek Kawula.
-Hardware design by Minisystem: jeff@minisystem.ca 
+Front panel design by Bartek Kawula.<br>
+Hardware design by minisystem: info@system80.net
+
+PCB
+===
+See /Gerbers/Jove-1.4.zip
+
+BOM
+===
+See JOVE_BOM.csv or Octopart BOM: https://octopart.com/bom-tool/0BVEzM8i
 
 Acknowledgements
 ================
