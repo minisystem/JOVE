@@ -23,6 +23,10 @@ BOM
 ===
 See JOVE_BOM.csv or Octopart BOM: https://octopart.com/bom-tool/0BVEzM8i
 
+CALIBRATION
+===========
+Feed one of the inputs a 10 Vpp ~50 Hz square wave. In 12 dB mode with frequency and resonance knobs both at minimum (fully CCW), adjust VR5 so that the filter is fully closed. This is best done by ear using headphones. Then switch to HP mode with frequency knob at max (fully CW) and listen to ensure most of the high frequency harmonics are gone. There's a sweet spot where maximum attenuation in both modes can be achieved. The resonance trimmer is used to ensure that there is minimum resonance when the resonance knob is fully CCW. Set the frequency knob at about 12 o'clock and look for a resonance peak on the square wave in 12 dB mode using an oscilloscope. Adjust the input gain so that the output square wave is 10 Vpp. Then use VR7 to to trim away the resonance peak so that the square wave is flat. 
+
 Acknowledgements
 ================
 The idea to hybridize the audio input and control voltage stages from the MKS80 and SH101, respectively, comes directly from
