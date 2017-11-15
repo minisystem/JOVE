@@ -39,5 +39,5 @@ the AMSynths AM8060: http://www.amsynthstore.co.uk/
 LICENSE
 =======
 cc-by-nc-sa
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://creativecommons.org/licenses/by-nc-sa/4.0/<br>
 I would like to put particular emphasis on the ShareAlike (SA) clause of the license: if you create a derivative work, please ensure that it is distributed under the same license.
