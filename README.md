@@ -6,9 +6,13 @@ SYSTEM80 JOVE Multimode Filter
 Roland Jupiter 6 inspired multimode filter in 14HP Eurorack format. IR3109s replaced with LM13700 OTAs.
 Selectable 24 dB low pass, bonus 2 pole 12 dB low pass, band pass and high pass modes.
 
+Product page: http://system80.net/product/jove/<br>
+
 Demos:<br>
 https://soundcloud.com/system_80/sets/jove-demo<br>
-https://soundcloud.com/system_80/sets/jove-mimoid-demo
+https://soundcloud.com/system_80/sets/jove-mimoid-demo<br>
+https://www.youtube.com/watch?v=VFNtQRDSUw4
+
 
 EDA files generated in KiCad 4.0.2. Schematic library here: https://github.com/minisystem/MyKicadLibraries/blob/master/MySynthParts.lib
 KiCad GitHub libraries required as well. :/
@@ -36,3 +40,4 @@ LICENSE
 =======
 cc-by-nc-sa
 https://creativecommons.org/licenses/by-nc-sa/4.0/
+I would like to put particular emphasis on the ShareAlike (SA) clause of the license: if you create a derivative work, please ensure that it is distributed under the same license.
