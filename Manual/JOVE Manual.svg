@@ -211,9 +211,9 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:zoom="1.8798691"
-     inkscape:cx="286.89888"
-     inkscape:cy="710.61162"
+     inkscape:zoom="0.93993455"
+     inkscape:cx="283.78967"
+     inkscape:cy="412.17071"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -2159,13 +2159,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:972.22314453px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="44376.926"
+         x="44351.648"
          y="16550.139"
          id="text5518"
          sodipodi:linespacing="1000%"><tspan
            sodipodi:role="line"
            id="tspan5520"
-           x="44376.926"
+           x="44351.648"
            y="16550.139">G</tspan></text>
     </g>
     <g
@@ -2323,13 +2323,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:972.22314453px;line-height:1000%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="44376.926"
+         x="44351.648"
          y="16550.139"
          id="text5618"
          sodipodi:linespacing="1000%"><tspan
            sodipodi:role="line"
            id="tspan5620"
-           x="44376.926"
+           x="44351.648"
            y="16550.139">G</tspan></text>
     </g>
     <text
@@ -2510,7 +2510,7 @@
          sodipodi:role="line">JOVE Eurorack Filter</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1180.55664063px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-55.55560684px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:25.59057472;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1180.55664063px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-55.55560684px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:25.59057426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="6052.0068"
        y="13273.893"
        id="text5756"
@@ -2518,7 +2518,7 @@
          id="tspan5770"
          sodipodi:role="line"
          x="6052.0068"
-         y="13273.893">The System 80 JOVE Eurorack Filter is inspired directly by the unique multi-</tspan><tspan
+         y="13273.893">The System80 JOVE Eurorack Filter is inspired directly by the unique multi-</tspan><tspan
          sodipodi:role="line"
          x="6052.0068"
          y="14572.505"
@@ -2651,7 +2651,7 @@
          x="58159.547"
          y="96081.367"
          id="tspan12898">Output (typical): 6 V<tspan
-   style="font-size:833.33410219px;baseline-shift:sub"
+   style="font-size:833.33410645px;baseline-shift:sub"
    id="tspan12968">PP</tspan> to 12 V<tspan
    style="font-size:833.33410645px;baseline-shift:sub"
    id="tspan12904">PP</tspan></tspan><tspan
@@ -2662,7 +2662,7 @@
          sodipodi:role="line"
          x="58159.547"
          y="99623.039"
-         id="tspan9237">Depth: 25 mm (excl. power connector)</tspan></text>
+         id="tspan9237">Depth: 28 mm (incl. power connector)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2361.11401367px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-104.16675568px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2708,7 +2708,9 @@
          sodipodi:role="line"
          id="tspan4770"
          x="74495.945"
-         y="105470.04">SYSTEM 80</tspan></text>
+         y="105470.04">SYSTEM<tspan
+   style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-opacity:1"
+   id="tspan4773">80</tspan></tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect12053"
@@ -2762,7 +2764,7 @@
          sodipodi:role="line"
          x="6083.8818"
          y="96331.641"
-         id="tspan7483">itions of reverse power, but prolonged connection to reverse polarity will </tspan><tspan
+         id="tspan7483">itions of reverse power, but prolonged connection to reverse polarity may </tspan><tspan
          style="stroke-width:25.59056854"
          sodipodi:role="line"
          x="6083.8818"
@@ -2777,22 +2779,28 @@
          sodipodi:role="line"
          x="6083.8818"
          y="100324.69"
-         id="tspan12263">Damage caused by reverse polarity cannot be covered by the</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';stroke-width:25.59056854"
-         sodipodi:role="line"
-         x="6083.8818"
-         y="101623.3"
-         id="tspan12267">warranty.</tspan><tspan
+         id="tspan12267">Please use care to avoid reverse polarity conditions.</tspan><tspan
          style="stroke-width:25.59056854"
          sodipodi:role="line"
          x="6083.8818"
-         y="102921.91"
+         y="101623.3"
          id="tspan7489" /><tspan
          style="stroke-width:25.59056854"
          sodipodi:role="line"
          x="6083.8818"
-         y="104220.52"
+         y="102921.91"
          id="tspan7491" /></text>
+    <text
+       sodipodi:linespacing="110%"
+       id="text9528"
+       y="105239.25"
+       x="41883.805"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1180.55664063px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-55.55560684px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:25.59057426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="105239.25"
+         x="41883.805"
+         sodipodi:role="line"
+         id="tspan9530">rev. 9/17</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
