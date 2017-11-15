@@ -21,11 +21,12 @@ Hardware design by minisystem: info@system80.net
 
 PCB
 ===
-See /Gerbers/Jove-1.4.zip
+See /Gerbers/JOVE-gerbers-1.5.zip
 
 BOM
 ===
 See JOVE_BOM.csv or Octopart BOM: https://octopart.com/bom-tool/0BVEzM8i
+NOTE: R66 and R67 can be 0805 10R resistors or PTC fuses (see BOM for part number)
 
 CALIBRATION
 ===========
