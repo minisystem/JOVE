@@ -26,7 +26,8 @@ See /Gerbers/JOVE-gerbers-1.5.zip
 BOM
 ===
 See JOVE_BOM.csv or Octopart BOM: https://octopart.com/bom-tool/0BVEzM8i
-NOTE: R66 and R67 can be 0805 10R resistors or PTC fuses (see BOM for part number)
+NOTE 1: R66 and R67 can be 0805 10R resistors or PTC fuses (see BOM for part number)
+NOTE 2: C1, C11, C28, C29 can be either 10 pF or 22 pF
 
 CALIBRATION
 ===========
@@ -41,4 +42,6 @@ LICENSE
 =======
 cc-by-nc-sa
 https://creativecommons.org/licenses/by-nc-sa/4.0/<br>
-I would like to put particular emphasis on the ShareAlike (SA) clause of the license: if you create a derivative work, please ensure that it is distributed under the same license.
+Please note the NON-COMMERCIAL (NC) clause of the Creative Commons license.  You do not have permission to build and sell JOVE for monetary compensation. <br>
+Make one for yourself, make an extra and sell it to your friend? That's cool. Make several and sell them on eBay/ModularGrid/Tindie? No, don't do that!<br><br>
+Please also note the ShareAlike (SA) clause of the license: if you create a derivative work, please ensure that it is distributed under the same license and is not used commercially.
