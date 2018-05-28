@@ -41,7 +41,8 @@ the AMSynths AM8060: http://www.amsynthstore.co.uk/
 LICENSE
 =======
 cc-by-nc-sa
-https://creativecommons.org/licenses/by-nc-sa/4.0/<br>
-Please note the NON-COMMERCIAL (NC) clause of the Creative Commons license.  You do not have permission to build and sell JOVE for monetary compensation. <br>
-Make one for yourself, make an extra and sell it to your friend? That's cool. Make several and sell them on eBay/ModularGrid/Tindie? No, don't do that!<br><br>
+https://creativecommons.org/licenses/by-nc-sa/4.0/<br><br>
+Please note the NON-COMMERCIAL (NC) clause of the Creative Commons license.  You do not have permission to build and sell JOVE for monetary compensation.
+Make one for yourself, make an extra and sell it to your friend? That's cool. Make several and sell them on eBay/ModularGrid/Tindie? No, don't do that! :)<br><br>
+The NC clause isn't going to be around forever and eventually derative works for commercial use will be allowed, but currently commerical use is prohibited by the license. <br><br>
 Please also note the ShareAlike (SA) clause of the license: if you create a derivative work, please ensure that it is distributed under the same license and is not used commercially.
