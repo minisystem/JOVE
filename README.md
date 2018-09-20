@@ -25,8 +25,8 @@ See /Gerbers/JOVE-gerbers-1.5.zip
 
 BOM
 ===
-See JOVE_BOM.csv or Octopart BOM: https://octopart.com/bom-tool/0BVEzM8i
-NOTE 1: R66 and R67 can be 0805 10R resistors or PTC fuses (see BOM for part number)
+Octopart BOM: https://octopart.com/bom-tool/0BVEzM8i<br>
+NOTE 1: R66 and R67 can be 0805 10R resistors or PTC fuses (see BOM for part number)<br>
 NOTE 2: C1, C11, C28, C29 can be either 10 pF or 22 pF
 
 CALIBRATION
