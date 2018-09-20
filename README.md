@@ -21,7 +21,7 @@ Hardware design by minisystem: info@system80.net
 
 PCB
 ===
-See /Gerbers/JOVE-gerbers-1.5.zip
+See /Gerbers/JOVE-gerbers-1.6.zip (BCM857BS SOT-363 changed to BCM857BV SOT-666)
 
 BOM
 ===
